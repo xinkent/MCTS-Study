@@ -1,0 +1,4883 @@
+graph {
+	graph [size=320]
+	node [shape=circle]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbf3dfa0> [label="XXXXX
+XXXXX
+XXXXX
+XXXXX
+BABBA
+ 
+ visit: 11396 
+ totalReward:10952.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea970> [label="XXXXX
+XXXXX
+XXXXX
+AXXXX
+BABBA
+ 
+ visit: 3 
+ totalReward:-3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbf3dfa0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea970>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb430> [label="XXXXX
+XXXXX
+BXXXX
+AXXXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea970> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2b80> [label="XXXXX
+XXXXX
+XXXXX
+ABXXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea970> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2b80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea6a0> [label="XXXXX
+XXXXX
+XXXXX
+XAXXX
+BABBA
+ 
+ visit: 11174 
+ totalReward:10922.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbf3dfa0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea6a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb0d0> [label="XXXXX
+XXXXX
+XBXXX
+XAXXX
+BABBA
+ 
+ visit: 3404 
+ totalReward:3288.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea6a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb0d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2130> [label="XXXXX
+XAXXX
+XBXXX
+XAXXX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb0d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2130>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e730> [label="XBXXX
+XAXXX
+XBXXX
+XAXXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2130> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e730>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2d90> [label="XXXXX
+XXXXX
+XBXXX
+AAXXX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb0d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2d90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e790> [label="XXXXX
+XBXXX
+XBXXX
+AAXXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2d90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff1c0> [label="XXXXX
+XXXXX
+XBXXX
+XAAXX
+BABBA
+ 
+ visit: 3395 
+ totalReward:3295.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb0d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff1c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85be0> [label="XXXXX
+XBXXX
+XBXXX
+XAAXX
+BABBA
+ 
+ visit: 679 
+ totalReward:659.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff1c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85be0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3040> [label="XAXXX
+XBXXX
+XBXXX
+XAAXX
+BABBA
+ 
+ visit: 16 
+ totalReward:8.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85be0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf760> [label="XAXXX
+XBXXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 4 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf760>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46dc0> [label="XAXXX
+XBAXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46dc0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53490> [label="XAXXX
+XBXXX
+XBBXX
+AAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53490>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53970> [label="XAXXX
+XBXXX
+XBBXX
+XAAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53970>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf730> [label="XAXXX
+XBXXX
+XBXXX
+BAAXX
+BABBA
+ 
+ visit: 7 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf730>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe417f0> [label="XAXXX
+XBXXX
+ABXXX
+BAAXX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf730> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe417f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61d60> [label="XAXXX
+BBXXX
+ABXXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe417f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61d60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41e80> [label="XAXXX
+XBXXX
+XBAXX
+BAAXX
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf730> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41e80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61fa0> [label="XAXXX
+XBBXX
+XBAXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41e80> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61fa0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41eb0> [label="XAXXX
+XBXXX
+XBXXX
+BAAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf730> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41eb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53790> [label="XAXXX
+XBXXX
+XBXXX
+BAAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf730> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41250> [label="XAXXX
+XBXXX
+XBXXX
+XAABX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46460> [label="XAXXX
+XBXXX
+XBAXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46460>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe415b0> [label="XAXXX
+XBXXX
+XBXXX
+XAAXB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe415b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46bb0> [label="XAXXX
+XBXXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe415b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46bb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea34f0> [label="XXXXX
+XBXXX
+XBAXX
+XAAXX
+BABBA
+ 
+ visit: 9 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85be0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea34f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf610> [label="XBXXX
+XBXXX
+XBAXX
+XAAXX
+BABBA
+ 
+ visit: 4 
+ totalReward:-4.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea34f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46df0> [label="XXXXX
+XBBXX
+XBAXX
+XAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea34f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46df0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d0a0> [label="XXXXX
+XBXXX
+XBAXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea34f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d0a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d160> [label="XXXXX
+XBXXX
+XBAXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea34f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d250> [label="XXXXX
+XBXXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea34f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea84f0> [label="XXXXX
+XBXXX
+XBXXX
+AAAXX
+BABBA
+ 
+ visit: 325 
+ totalReward:325.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85be0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea84f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea89d0> [label="XXXXX
+XBXXX
+XBXXX
+XAAAX
+BABBA
+ 
+ visit: 325 
+ totalReward:325.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85be0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea89d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf040> [label="XXXXX
+XBXXX
+XBXXX
+XAAXA
+BABBA
+ 
+ visit: 3 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85be0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf550> [label="XBXXX
+XBXXX
+XBXXX
+XAAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d340> [label="XXXXX
+XBXXX
+XBBXX
+XAAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d340>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85d30> [label="XXXXX
+XXXXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 655 
+ totalReward:637.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff1c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85d30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9eeb0> [label="XXXXX
+XAXXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 11 
+ totalReward:3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85d30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9eeb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8e80> [label="XBXXX
+XAXXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9eeb0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8e80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf2e0> [label="XXXXX
+XABXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9eeb0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf2e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4100> [label="XXXXX
+XAXXX
+XBBXX
+BAAXX
+BABBA
+ 
+ visit: 6 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9eeb0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41640> [label="XAXXX
+XAXXX
+XBBXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe581f0> [label="XXXXX
+XAAXX
+XBBXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe581f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe582e0> [label="XXXXX
+XAXXX
+ABBXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe582e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe712b0> [label="XXXXX
+XAXXX
+XBBXX
+BAAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe712b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71340> [label="XXXXX
+XAXXX
+XBBXX
+BAAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71340>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41040> [label="XXXXX
+XAXXX
+XBBXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9eeb0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41310> [label="XXXXX
+XAXXX
+XBBXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9eeb0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41310>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea30d0> [label="XXXXX
+XXAXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 7 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85d30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea30d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c40> [label="XXBXX
+XXAXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea30d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c40>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeafbe0> [label="XXXXX
+XBAXX
+XBBXX
+XAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea30d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeafbe0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41790> [label="XXXXX
+XXAXX
+XBBXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea30d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41760> [label="XXXXX
+XXAXX
+XBBXX
+XAABX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea30d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41760>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61490> [label="XXAXX
+XXAXX
+XBBXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61490>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe614f0> [label="XXXXX
+XXAXX
+XBBXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea30d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe614f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8100> [label="XXXXX
+XXXXX
+XBBXX
+AAAXX
+BABBA
+ 
+ visit: 316 
+ totalReward:316.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85d30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8a60> [label="XXXXX
+XXXXX
+XBBXX
+XAAAX
+BABBA
+ 
+ visit: 317 
+ totalReward:317.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85d30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8a60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8550> [label="XXXXX
+XXXXX
+XBBXX
+XAAXA
+BABBA
+ 
+ visit: 3 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85d30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58a30> [label="XXXXX
+XBXXX
+XBBXX
+XAAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58a30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58af0> [label="XXXXX
+XXBXX
+XBBXX
+XAAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58af0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98610> [label="XXXXX
+XXXXX
+XBXXX
+BAAXX
+BABBA
+ 
+ visit: 703 
+ totalReward:681.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff1c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e6d0> [label="XXXXX
+XAXXX
+XBXXX
+BAAXX
+BABBA
+ 
+ visit: 8 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e6d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53b50> [label="XBXXX
+XAXXX
+XBXXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e6d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53b50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58100> [label="XXXXX
+XAXXX
+BBXXX
+BAAXX
+BABBA
+ 
+ visit: 3 
+ totalReward:-3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e6d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71070> [label="XXXXX
+XAXXX
+XBBXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e6d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71070>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71730> [label="XXXXX
+XAXXX
+XBXXX
+BAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e6d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71730>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71820> [label="XXXXX
+XAXXX
+XBXXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e6d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e760> [label="XXXXX
+XXXXX
+ABXXX
+BAAXX
+BABBA
+ 
+ visit: 5 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e760>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53cd0> [label="XXXXX
+BXXXX
+ABXXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53cd0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53df0> [label="XXXXX
+XBXXX
+ABXXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53df0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71430> [label="XXXXX
+XXXXX
+ABBXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71550> [label="XXXXX
+XXXXX
+ABXXX
+BAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e8b0> [label="XXXXX
+XXXXX
+XBAXX
+BAAXX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e8b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53c10> [label="XXXXX
+XBXXX
+XBAXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e8b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53c10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9ed60> [label="XXXXX
+XXXXX
+XBXXX
+BAAAX
+BABBA
+ 
+ visit: 685 
+ totalReward:685.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9ed60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9edc0> [label="XXXXX
+XXXXX
+XBXXX
+BAAXA
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9edc0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53160> [label="XXXXX
+XBXXX
+XBXXX
+BAAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9edc0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987f0> [label="XXXXX
+XXXXX
+XBXXX
+XAABX
+BABBA
+ 
+ visit: 655 
+ totalReward:637.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff1c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98700> [label="XXXXX
+XAXXX
+XBXXX
+XAABX
+BABBA
+ 
+ visit: 5 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98700>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3f10> [label="XBXXX
+XAXXX
+XBXXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98700> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3f10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbbe0> [label="XXXXX
+XAXXX
+XBBXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98700> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbbe0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41100> [label="XXXXX
+XAXXX
+XBXBX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98700> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66160> [label="XXXXX
+XAXXX
+XBXXX
+BAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98700> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98d60> [label="XXXXX
+XXXXX
+XBAXX
+XAABX
+BABBA
+ 
+ visit: 7 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98d60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8070> [label="XXXXX
+XBXXX
+XBAXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98d60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8070>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8160> [label="XXXXX
+XXBXX
+XBAXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98d60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea87f0> [label="XXXXX
+XXXXX
+XBABX
+XAABX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98d60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea87f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb7c0> [label="XXXXX
+XXXXX
+XBAXX
+BAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98d60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb7c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61100> [label="XXXXX
+XXXXX
+XBAXX
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98d60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98880> [label="XXXXX
+XXXXX
+XBXAX
+XAABX
+BABBA
+ 
+ visit: 320 
+ totalReward:320.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98880>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea35b0> [label="XXXXX
+XXXXX
+XBXXX
+AAABX
+BABBA
+ 
+ visit: 320 
+ totalReward:320.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea35b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3e50> [label="XXXXX
+XXXXX
+XBXXX
+XAABA
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3e50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58280> [label="XXXXX
+XBXXX
+XBXXX
+XAABA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3e50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58280>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98040> [label="XXXXX
+XXXXX
+XBXXX
+XAAXB
+BABBA
+ 
+ visit: 702 
+ totalReward:680.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff1c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b50> [label="XXXXX
+XAXXX
+XBXXX
+XAAXB
+BABBA
+ 
+ visit: 5 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c40> [label="XBXXX
+XAXXX
+XBXXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c40>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8790> [label="XXXXX
+XAXXX
+XBBXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb8b0> [label="XXXXX
+XAXXX
+XBXXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb8b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66190> [label="XXXXX
+XAXXX
+XBXXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66190>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98c10> [label="XXXXX
+XXXXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 7 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98c10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8280> [label="XXXXX
+XBXXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8280>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea86a0> [label="XXXXX
+XXBXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea86a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe664f0> [label="XXAXX
+XXBXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea86a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe664f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebba00> [label="XXXXX
+XXXXX
+XBAXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebba00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe662e0> [label="XXXXX
+XXXXX
+XBAXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe662e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66400> [label="XXXXX
+XXXXX
+XBAXX
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e490> [label="XXXXX
+XXXXX
+XBXXA
+XAAXB
+BABBA
+ 
+ visit: 12 
+ totalReward:4.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e490>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe583d0> [label="XXXXX
+XBXXX
+XBXXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe583d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58520> [label="XXXXX
+XXXXB
+XBXXA
+XAAXB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58520>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58c40> [label="XXXXA
+XXXXB
+XBXXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58c40>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe580a0> [label="XXXXX
+XXXXX
+XBBXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe580a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe588b0> [label="XXXXX
+XXXXX
+XBXXA
+BAAXB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe588b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66a60> [label="XXXXX
+XAXXX
+XBXXA
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe588b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66a60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58b20> [label="XXXXX
+XXXXX
+XBXXA
+XAABB
+BABBA
+ 
+ visit: 5 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58b20>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58580> [label="XXXXX
+XAXXX
+XBXXA
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58b20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58580>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58ee0> [label="XXXXX
+XXXXA
+XBXXA
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58b20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58ee0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61040> [label="XXXXX
+XXXXX
+XBAXA
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58b20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66610> [label="XXXXX
+XXXXX
+XBXAA
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58b20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e3a0> [label="XXXXX
+XXXXX
+XBXXX
+AAAXB
+BABBA
+ 
+ visit: 339 
+ totalReward:339.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e3a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3130> [label="XXXXX
+XXXXX
+XBXXX
+XAAAB
+BABBA
+ 
+ visit: 338 
+ totalReward:338.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98040> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3130>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff2e0> [label="XXXXX
+XXXXX
+XBXXX
+XAXAX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb0d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff2e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e9a0> [label="XXXXX
+XBXXX
+XBXXX
+XAXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff2e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e9a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff2b0> [label="XXXXX
+XXXXX
+XBXXX
+XAXXA
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb0d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff2b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e940> [label="XXXXX
+XBXXX
+XBXXX
+XAXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff2b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e940>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb220> [label="XXXXX
+XXXXX
+XXXXX
+BAXXX
+BABBA
+ 
+ visit: 1720 
+ totalReward:1698.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea6a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85e20> [label="XXXXX
+XXXXX
+AXXXX
+BAXXX
+BABBA
+ 
+ visit: 15 
+ totalReward:5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85e20>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d640> [label="XXXXX
+BXXXX
+AXXXX
+BAXXX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6ba90> [label="AXXXX
+BXXXX
+AXXXX
+BAXXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d640> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6ba90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d580> [label="XXXXX
+XXXXX
+ABXXX
+BAXXX
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d580>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe710d0> [label="XXXXX
+AXXXX
+ABXXX
+BAXXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d580> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe710d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d850> [label="XXXXX
+XXXXX
+AXXXX
+BABXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d850>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d8e0> [label="XXXXX
+XXXXX
+AXXXX
+BAXBX
+BABBA
+ 
+ visit: 4 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d8e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b6d0> [label="XXXXX
+AXXXX
+AXXXX
+BAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b6d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bbb0> [label="XXXXX
+XXXXX
+AAXXX
+BAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bbb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bca0> [label="XXXXX
+XXXXX
+AXXAX
+BAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bca0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4daf0> [label="XXXXX
+XXXXX
+AXXXX
+BAXXB
+BABBA
+ 
+ visit: 5 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4daf0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b430> [label="XXXXX
+AXXXX
+AXXXX
+BAXXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4daf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b8e0> [label="XXXXX
+XXXXX
+AAXXX
+BAXXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4daf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b8e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bc10> [label="XXXXX
+XXXXX
+AXXXA
+BAXXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4daf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bc10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bdf0> [label="XXXXX
+XXXXX
+AXXXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4daf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6bdf0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe853d0> [label="XXXXX
+XXXXX
+XAXXX
+BAXXX
+BABBA
+ 
+ visit: 1698 
+ totalReward:1698.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe853d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b100> [label="XXXXX
+XXXXX
+XXXXX
+BAAXX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4da30> [label="XXXXX
+XXXXX
+BXXXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4da30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b220> [label="XXXXX
+XXXXX
+XXXXX
+BAXAX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d550> [label="XXXXX
+XXXXX
+BXXXX
+BAXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b310> [label="XXXXX
+XXXXX
+XXXXX
+BAXXA
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b310>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d0d0> [label="XXXXX
+XXXXX
+BXXXX
+BAXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d0d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2b0> [label="XXXXX
+XXXXX
+XXXXX
+XABXX
+BABBA
+ 
+ visit: 1800 
+ totalReward:1774.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea6a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2340> [label="XXXXX
+XXXXX
+XAXXX
+XABXX
+BABBA
+ 
+ visit: 1781 
+ totalReward:1781.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2340>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2400> [label="XXXXX
+XXXXX
+XXAXX
+XABXX
+BABBA
+ 
+ visit: 8 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe466a0> [label="XXXXX
+XXBXX
+XXAXX
+XABXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe466a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46370> [label="XXXXX
+XXXXX
+XBAXX
+XABXX
+BABBA
+ 
+ visit: 3 
+ totalReward:-3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46370>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61850> [label="XXXXX
+XXXXX
+XXAXX
+BABXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61850>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe618b0> [label="XXXXX
+XXXXX
+XXAXX
+XABBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe618b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61a30> [label="XXXXX
+XXXXX
+XXAXX
+XABXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61a30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2760> [label="XXXXX
+XXXXX
+XXXXX
+AABXX
+BABBA
+ 
+ visit: 4 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2760>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46880> [label="XXXXX
+XXXXX
+BXXXX
+AABXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46880>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe468b0> [label="XXXXX
+XXXXX
+XBXXX
+AABXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe468b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61790> [label="XXXXX
+XXXXX
+XXBXX
+AABXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2760> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef27c0> [label="XXXXX
+XXXXX
+XXXXX
+XABAX
+BABBA
+ 
+ visit: 4 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef27c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2ac0> [label="XXXXX
+XXXXX
+XBXXX
+XABAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef27c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2ac0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeafe80> [label="XXXXX
+XXXXX
+XXBXX
+XABAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef27c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeafe80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61b50> [label="XXXXX
+XXXXX
+XXXBX
+XABAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef27c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61b50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2880> [label="XXXXX
+XXXXX
+XXXXX
+XABXA
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2880>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe463d0> [label="XXXXX
+XXXXX
+XBXXX
+XABXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2880> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe463d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2e0> [label="XXXXX
+XXXXX
+XXXXX
+XAXBX
+BABBA
+ 
+ visit: 1918 
+ totalReward:1886.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea6a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2430> [label="XXXXX
+XXXXX
+XAXXX
+XAXBX
+BABBA
+ 
+ visit: 1889 
+ totalReward:1889.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2670> [label="XXXXX
+XXXXX
+XXXAX
+XAXBX
+BABBA
+ 
+ visit: 8 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2670>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e340> [label="XXXXX
+XXXBX
+XXXAX
+XAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e340>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea31c0> [label="XXXXX
+XXXXX
+XBXAX
+XAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea31c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3850> [label="XXXXX
+XXXXX
+XXXAX
+BAXBX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3850>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46400> [label="XXXXX
+XXXAX
+XXXAX
+BAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3850> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf310> [label="XXXXX
+XXXXX
+XXXAX
+XABBX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf310>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61280> [label="XXXXX
+XXXAX
+XXXAX
+XABBX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61280>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe460a0> [label="XXXXX
+XXXXX
+XXXAX
+XAXBB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe460a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b070> [label="XXXXX
+XXXXX
+XXXXX
+AAXBX
+BABBA
+ 
+ visit: 8 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b070>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e1f0> [label="XXXXX
+XXXXX
+BXXXX
+AAXBX
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e1f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66cd0> [label="XXXXX
+AXXXX
+BXXXX
+AAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e1f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66cd0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf9d0> [label="XXXXX
+XXXXX
+XBXXX
+AAXBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf9d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf9a0> [label="XXXXX
+XXXXX
+XXXBX
+AAXBX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf9a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4dd90> [label="XXXXX
+XXXXX
+XXXXX
+AABBX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4dd90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4de80> [label="XXXXX
+XXXXX
+XXXXX
+AAXBB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4de80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b80> [label="XXXXX
+XXXXX
+XXXXX
+XAABX
+BABBA
+ 
+ visit: 8 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e310> [label="XXXXX
+XXXXX
+XBXXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b80> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e310>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3700> [label="XXXXX
+XXXXX
+XXBXX
+XAABX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b80> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3700>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe612b0> [label="XXXXX
+XXAXX
+XXBXX
+XAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3700> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe612b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf460> [label="XXXXX
+XXXXX
+XXXBX
+XAABX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b80> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf460>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d820> [label="XXXXX
+XXXXX
+XXXXX
+BAABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b80> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4d820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4dca0> [label="XXXXX
+XXXXX
+XXXXX
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98b80> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4dca0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e0a0> [label="XXXXX
+XXXXX
+XXXXX
+XAXBA
+BABBA
+ 
+ visit: 4 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb2e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e0a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41af0> [label="XXXXX
+XXXXX
+XBXXX
+XAXBA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41af0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41d30> [label="XXXXX
+XXXXX
+XXXBX
+XAXBA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41d30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61250> [label="XXXXX
+XXXXX
+XXXXB
+XAXBA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe9e0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13a0> [label="XXXXX
+XXXXX
+XXXXX
+XAXXB
+BABBA
+ 
+ visit: 2331 
+ totalReward:2277.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea6a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2250> [label="XXXXX
+XXXXX
+XAXXX
+XAXXB
+BABBA
+ 
+ visit: 2052 
+ totalReward:2052.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2520> [label="XXXXX
+XXXXX
+XXXXA
+XAXXB
+BABBA
+ 
+ visit: 8 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2520>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3400> [label="XXXXX
+XXXXB
+XXXXA
+XAXXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a30> [label="XXXXX
+XXXXX
+XBXXA
+XAXXB
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46b80> [label="XXXXX
+XAXXX
+XBXXA
+XAXXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46b80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4550> [label="XXXXX
+XXXXX
+XXXXA
+BAXXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb46d0> [label="XXXXX
+XXXXX
+XXXXA
+XABXB
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb46d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe616a0> [label="XXXXX
+XXXXA
+XXXXA
+XABXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb46d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe616a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46a60> [label="XXXXX
+XXXXX
+XXXXA
+XAXBB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46a60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98250> [label="XXXXX
+XXXXX
+XXXXX
+AAXXB
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46250> [label="XXXXX
+XXXXX
+BXXXX
+AAXXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98100> [label="XXXXX
+XXXXX
+XXXXX
+XAAXB
+BABBA
+ 
+ visit: 253 
+ totalReward:223.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98430> [label="XXXXX
+XXXXX
+XBXXX
+XAAXB
+BABBA
+ 
+ visit: 56 
+ totalReward:46.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf0a0> [label="XXXXX
+XAXXX
+XBXXX
+XAAXB
+BABBA
+ 
+ visit: 7 
+ totalReward:3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf0a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53370> [label="XBXXX
+XAXXX
+XBXXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53370>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe612e0> [label="XXXXX
+XAXXX
+XBBXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe612e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61e20> [label="XXXXX
+XAXXX
+XBXXB
+XAAXB
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61e20>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71fa0> [label="XAXXX
+XAXXX
+XBXXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71fa0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66f40> [label="XXXXX
+XAXXX
+XBXXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66f40>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b160> [label="XXXXX
+XAXXX
+XBXXX
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf0a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4280> [label="XXXXX
+XXXXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 7 
+ totalReward:5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4280>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41df0> [label="XXXXX
+XBXXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4280> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41df0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58370> [label="XXXXX
+XXBXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4280> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58370>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71e80> [label="XXAXX
+XXBXX
+XBAXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71e80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71970> [label="XXXXX
+XXXXX
+XBAXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4280> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71970>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71a00> [label="XXXXX
+XXXXX
+XBAXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4280> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71a00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe716a0> [label="XXXXX
+XXXXX
+XBAXX
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4280> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe716a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4f70> [label="XXXXX
+XXXXX
+XBXXA
+XAAXB
+BABBA
+ 
+ visit: 5 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4f70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4ddf0> [label="XXXXX
+XBXXX
+XBXXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4f70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe4ddf0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61400> [label="XXXXX
+XXXXB
+XBXXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4f70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe61400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71be0> [label="XXXXX
+XXXXX
+XBBXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4f70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71be0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71dc0> [label="XXXXX
+XXXXX
+XBXXA
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4f70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71dc0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb220> [label="XXXXX
+XXXXX
+XBXXX
+AAAXB
+BABBA
+ 
+ visit: 18 
+ totalReward:18.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb910> [label="XXXXX
+XXXXX
+XBXXX
+XAAAB
+BABBA
+ 
+ visit: 18 
+ totalReward:18.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb910>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3220> [label="XXXXX
+XXXXX
+XXBXX
+XAAXB
+BABBA
+ 
+ visit: 30 
+ totalReward:30.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf220> [label="XXXXX
+XXAXX
+XXBXX
+XAAXB
+BABBA
+ 
+ visit: 6 
+ totalReward:6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe530d0> [label="XXBXX
+XXAXX
+XXBXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe530d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66820> [label="XXXXX
+XXAXX
+XBBXX
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66c70> [label="XXXXX
+XXAXX
+XXBXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66c70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b220> [label="XXXXX
+XXAXX
+XXBXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71cd0> [label="XXXXX
+XXAXX
+XXBXX
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe71cd0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf3a0> [label="XXXXX
+XXXXX
+XABXX
+XAAXB
+BABBA
+ 
+ visit: 6 
+ totalReward:6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaf3a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43a0> [label="XXXXX
+XXXXX
+XXBXA
+XAAXB
+BABBA
+ 
+ visit: 5 
+ totalReward:5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbd00> [label="XXXXX
+XXBXX
+XXBXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbd00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58640> [label="XXXXX
+XXXXB
+XXBXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe58640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66730> [label="XXXXX
+XXXXX
+XBBXA
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66730>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66640> [label="XXXXX
+XXXXX
+XXBXA
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe66640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb100> [label="XXXXX
+XXXXX
+XXBXX
+AAAXB
+BABBA
+ 
+ visit: 6 
+ totalReward:6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb820> [label="XXXXX
+XXXXX
+XXBXX
+XAAAB
+BABBA
+ 
+ visit: 6 
+ totalReward:6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3220> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a90> [label="XXXXX
+XXXXX
+XXXXB
+XAAXB
+BABBA
+ 
+ visit: 46 
+ totalReward:42.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c70> [label="XXXXX
+XXXXA
+XXXXB
+XAAXB
+BABBA
+ 
+ visit: 5 
+ totalReward:3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb4c0> [label="XXXXB
+XXXXA
+XXXXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb4c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe531c0> [label="XXXXX
+XXXXA
+XBXXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe531c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53280> [label="XXXXX
+XXXXA
+XXBXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53280>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe668b0> [label="XXXXX
+XXXXA
+XXXXB
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8c70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe668b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4190> [label="XXXXX
+XXXXX
+XAXXB
+XAAXB
+BABBA
+ 
+ visit: 13 
+ totalReward:13.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4190>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43d0> [label="XXXXX
+XXXXX
+XXAXB
+XAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb43d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4be0> [label="XXXXX
+XXXXX
+XXXXB
+AAAXB
+BABBA
+ 
+ visit: 13 
+ totalReward:13.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4be0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4d30> [label="XXXXX
+XXXXX
+XXXXB
+XAAAB
+BABBA
+ 
+ visit: 13 
+ totalReward:13.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3a90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4d30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c10> [label="XXXXX
+XXXXX
+XXXXX
+BAAXB
+BABBA
+ 
+ visit: 74 
+ totalReward:62.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8640> [label="XXXXX
+XXXXX
+AXXXX
+BAAXB
+BABBA
+ 
+ visit: 9 
+ totalReward:5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41b20> [label="XXXXX
+BXXXX
+AXXXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8640> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41b20>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46970> [label="XXXXX
+XXXXX
+ABXXX
+BAAXB
+BABBA
+ 
+ visit: 4 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8640> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46970>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b640> [label="XXXXX
+AXXXX
+ABXXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46970> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b730> [label="XXXXX
+XAXXX
+ABXXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46970> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b730>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b820> [label="XXXXX
+XXXXX
+ABAXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46970> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b0a0> [label="XXXXX
+XXXXX
+AXBXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8640> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b0a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b280> [label="XXXXX
+XXXXX
+AXXXB
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8640> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b280>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b4c0> [label="XXXXX
+XXXXX
+AXXXX
+BAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8640> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b4c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeafd90> [label="XXXXX
+XXXXX
+XAXXX
+BAAXB
+BABBA
+ 
+ visit: 28 
+ totalReward:28.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeafd90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4d90> [label="XXXXX
+XXXXX
+XXAXX
+BAAXB
+BABBA
+ 
+ visit: 3 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4d90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbdf0> [label="XXXXX
+XXBXX
+XXAXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4d90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbdf0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe710a0> [label="XXXXX
+XXXXX
+BXAXX
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4d90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe710a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb310> [label="XXXXX
+XXXXX
+XXXXA
+BAAXB
+BABBA
+ 
+ visit: 4 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb310>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe410d0> [label="XXXXX
+XXXXB
+XXXXA
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe410d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46160> [label="XXXXX
+XXXXX
+BXXXA
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe46160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b520> [label="XXXXX
+XXXXX
+XBXXA
+BAAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe6b520>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb580> [label="XXXXX
+XXXXX
+XXXXX
+BAAAB
+BABBA
+ 
+ visit: 29 
+ totalReward:29.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3c10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb580>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8460> [label="XXXXX
+XXXXX
+XXXXX
+XAABB
+BABBA
+ 
+ visit: 46 
+ totalReward:42.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8460>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8b50> [label="XXXXX
+XXXXX
+XAXXX
+XAABB
+BABBA
+ 
+ visit: 14 
+ totalReward:14.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8460> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8b50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaff40> [label="XXXXX
+XXXXX
+XXAXX
+XAABB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8460> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaff40>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53460> [label="XXXXX
+XXBXX
+XXAXX
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeaff40> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53460>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4970> [label="XXXXX
+XXXXX
+XXXAX
+XAABB
+BABBA
+ 
+ visit: 13 
+ totalReward:13.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8460> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4970>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb370> [label="XXXXX
+XXXXX
+XXXXA
+XAABB
+BABBA
+ 
+ visit: 3 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8460> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb370>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbc10> [label="XXXXX
+XXXXB
+XXXXA
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebbc10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53670> [label="XXXXX
+XXXXX
+XBXXA
+XAABB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53670>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb640> [label="XXXXX
+XXXXX
+XXXXX
+AAABB
+BABBA
+ 
+ visit: 13 
+ totalReward:13.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea8460> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbebb640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987c0> [label="XXXXX
+XXXXX
+XXXXX
+XAXAB
+BABBA
+ 
+ visit: 15 
+ totalReward:5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3370> [label="XXXXX
+XXXXX
+XBXXX
+XAXAB
+BABBA
+ 
+ visit: 8 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3370>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4af0> [label="XXXXX
+XAXXX
+XBXXX
+XAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4af0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41430> [label="XXXXX
+XXXXX
+XBXAX
+XAXAB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe538e0> [label="XXXXX
+XBXXX
+XBXAX
+XAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe41430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe538e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe414f0> [label="XXXXX
+XXXXX
+XBXXA
+XAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe414f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53610> [label="XXXXX
+XXXXX
+XBXXX
+AAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53640> [label="XXXXX
+XXXXX
+XBXXX
+XAAAB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbea3370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe53640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4700> [label="XXXXX
+XXXXX
+XXXBX
+XAXAB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4700>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe666d0> [label="XXXXX
+XXXAX
+XXXBX
+XAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4700> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe666d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4820> [label="XXXXX
+XXXXX
+XXXXB
+XAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4910> [label="XXXXX
+XXXXX
+XXXXX
+BAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4910>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4a00> [label="XXXXX
+XXXXX
+XXXXX
+XABAB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe987c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4a00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe664c0> [label="XXXXX
+XXXXX
+XAXXX
+XABAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeb4a00> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe664c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea8e0> [label="XXXXX
+XXXXX
+XXXXX
+XXAXX
+BABBA
+ 
+ visit: 44 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbf3dfa0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea8e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2160> [label="XXXXX
+XXXXX
+XXBXX
+XXAXX
+BABBA
+ 
+ visit: 8 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9220> [label="XXXXX
+XXAXX
+XXBXX
+XXAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2160> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b4c0> [label="XXXXX
+XXXXX
+XXBXX
+AXAXX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2160> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b4c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98280> [label="XXXXX
+XXBXX
+XXBXX
+AXAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b4c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98280>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b8b0> [label="XXXXX
+XXXXX
+XXBXX
+XAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2160> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b8b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90250> [label="XXXXX
+XXXXX
+XXBXX
+XXAAX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2160> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe908e0> [label="XXXXX
+XXBXX
+XXBXX
+XXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe908e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe907f0> [label="XXXXX
+XXXXX
+XXBXX
+XXAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2160> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe907f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2e20> [label="XXXXX
+XXXXX
+XXXXX
+BXAXX
+BABBA
+ 
+ visit: 17 
+ totalReward:-5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2e20>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea9d0> [label="XXXXX
+XXXXX
+AXXXX
+BXAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea9d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b5b0> [label="XXXXX
+XXXXX
+XXAXX
+BXAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b5b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b6a0> [label="XXXXX
+XXXXX
+XXXXX
+BAAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b6a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8ba90> [label="XXXXX
+XXXXX
+XXXXX
+BXAAX
+BABBA
+ 
+ visit: 10 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8ba90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8bf70> [label="XXXXX
+XXXXX
+BXXXX
+BXAAX
+BABBA
+ 
+ visit: 5 
+ totalReward:-5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8ba90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8bf70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe900a0> [label="XXXXX
+XXXXX
+XXBXX
+BXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8ba90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe900a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90160> [label="XXXXX
+XXXXX
+XXXBX
+BXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8ba90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90640> [label="XXXXX
+XXXXX
+XXXXX
+BBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8ba90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90640>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90700> [label="XXXXX
+XXXXX
+XXXXX
+BXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8ba90> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90700>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b670> [label="XXXXX
+XXXXX
+XXXXX
+BXAXA
+BABBA
+ 
+ visit: 3 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2e20> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b670>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8be80> [label="XXXXX
+XXXXX
+BXXXX
+BXAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8be80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98400> [label="XXXXX
+XXXXX
+XXBXX
+BXAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbf70> [label="XXXXX
+XXXXX
+XXXXX
+XBAXX
+BABBA
+ 
+ visit: 14 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbf70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea910> [label="XXXXX
+XXXXX
+XAXXX
+XBAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbf70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea910>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b400> [label="XXXXX
+XXXXX
+XXAXX
+XBAXX
+BABBA
+ 
+ visit: 4 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbf70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90bb0> [label="XXXXX
+XXBXX
+XXAXX
+XBAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90bb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe980d0> [label="XXXXX
+XXXXX
+XBAXX
+XBAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe980d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98190> [label="XXXXX
+XXXXX
+XXAXX
+BBAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b400> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe98190>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b340> [label="XXXXX
+XXXXX
+XXXXX
+ABAXX
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbf70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b340>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90550> [label="XXXXX
+XXXXX
+BXXXX
+ABAXX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b340> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90310> [label="XXXXX
+XXXXX
+XXXXX
+XBAAX
+BABBA
+ 
+ visit: 5 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbf70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90310>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90be0> [label="XXXXX
+XXXXX
+XBXXX
+XBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90be0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90d90> [label="XXXXX
+XXXXX
+XXBXX
+XBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90d90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90e80> [label="XXXXX
+XXXXX
+XXXBX
+XBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90e80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90f70> [label="XXXXX
+XXXXX
+XXXXX
+BBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90310> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90f70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe909d0> [label="XXXXX
+XXXXX
+XXXXX
+XBAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbf70> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe909d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea790> [label="XXXXX
+XXXXX
+XXXXX
+XXABX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe904f0> [label="XXXXX
+XXXXX
+XXAXX
+XXABX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea790> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe904f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea670> [label="XXXXX
+XXXXX
+XXXXX
+XXAXB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea8e0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea670>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90400> [label="XXXXX
+XXXXX
+XXAXX
+XXAXB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea670> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe90400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eaaf0> [label="XXXXX
+XXXXX
+XXXXX
+XXXAX
+BABBA
+ 
+ visit: 149 
+ totalReward:33.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbf3dfa0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eaaf0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea940> [label="XXXXX
+XXXXX
+XXXBX
+XXXAX
+BABBA
+ 
+ visit: 8 
+ totalReward:6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eaaf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea940>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6040> [label="XXXXX
+XXXAX
+XXXBX
+XXXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed66a0> [label="XXXXX
+XXXXX
+XXXBX
+AXXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed66a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6730> [label="XXXXX
+XXXXX
+XXXBX
+XAXAX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6730>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6580> [label="XXXXX
+XXXBX
+XXXBX
+XAXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6730> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6580>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6850> [label="XXXXX
+XXXXX
+XXXBX
+XXAAX
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6850>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85340> [label="XXXXX
+XXXBX
+XXXBX
+XXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6850> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85340>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6b80> [label="XXXXX
+XXXXX
+XXXBX
+XXXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4ea940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6b80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2430> [label="XXXXX
+XXXXX
+XXXXX
+BXXAX
+BABBA
+ 
+ visit: 92 
+ totalReward:4.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eaaf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed61f0> [label="XXXXX
+XXXXX
+AXXXX
+BXXAX
+BABBA
+ 
+ visit: 53 
+ totalReward:11.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed61f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbd60> [label="XXXXX
+BXXXX
+AXXXX
+BXXAX
+BABBA
+ 
+ visit: 5 
+ totalReward:3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed61f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbd60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7040> [label="AXXXX
+BXXXX
+AXXXX
+BXXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbd60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7160> [label="XXXXX
+BXXXX
+AXXAX
+BXXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbd60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee71c0> [label="XXXXX
+BXXXX
+AXXXX
+BAXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbd60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee71c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff790> [label="XXXXX
+BXXXX
+AXXXX
+BXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbd60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9d0> [label="XXXXX
+XXXXX
+AXXBX
+BXXAX
+BABBA
+ 
+ visit: 3 
+ totalReward:3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed61f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1be0> [label="XXXXX
+AXXXX
+AXXBX
+BXXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1be0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe852b0> [label="XXXXX
+XXXAX
+AXXBX
+BXXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe852b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9a0> [label="XXXXX
+XXXXX
+AXXXX
+BBXAX
+BABBA
+ 
+ visit: 26 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed61f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1220> [label="XXXXX
+AXXXX
+AXXXX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1490> [label="XXXXX
+XXXXX
+AAXXX
+BBXAX
+BABBA
+ 
+ visit: 6 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1490>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef97f0> [label="XXXXX
+BXXXX
+AAXXX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef97f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff670> [label="XXXXX
+XBXXX
+AAXXX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff670>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff820> [label="XXXXX
+XXXXX
+AAXBX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff880> [label="XXXXX
+XXXXX
+AAXXX
+BBBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff880>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85a00> [label="XXXXX
+XXXXX
+AAXXX
+BBXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1490> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85a00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1970> [label="XXXXX
+XXXXX
+AXXAX
+BBXAX
+BABBA
+ 
+ visit: 3 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1970>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9730> [label="XXXXX
+BXXXX
+AXXAX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1970> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9730>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffa90> [label="XXXXX
+XXXBX
+AXXAX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1970> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffa90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1910> [label="XXXXX
+XXXXX
+AXXXX
+BBAAX
+BABBA
+ 
+ visit: 9 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1910>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9d30> [label="XXXXX
+BXXXX
+AXXXX
+BBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1910> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9d30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9dc0> [label="XXXXX
+XXXXX
+ABXXX
+BBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1910> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9dc0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9eb0> [label="XXXXX
+XXXXX
+AXBXX
+BBAAX
+BABBA
+ 
+ visit: 3 
+ totalReward:-3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1910> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9eb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9f70> [label="XXXXX
+XXXXX
+AXXBX
+BBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1910> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9f70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff0d0> [label="XXXXX
+XXXXX
+AXXXX
+BBAAB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1910> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff0d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b790> [label="XXXXX
+AXXXX
+AXXXX
+BBAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff0d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9430> [label="XXXXX
+XXXXX
+AXXXX
+BBXAA
+BABBA
+ 
+ visit: 6 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb9a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9700> [label="XXXXX
+BXXXX
+AXXXX
+BBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9700>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff940> [label="XXXXX
+XXXXX
+ABXXX
+BBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff940>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffc10> [label="XXXXX
+XXXXX
+AXXBX
+BBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffc10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85880> [label="XXXXX
+XXXXX
+AXXXB
+BBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85880>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b7c0> [label="XXXXX
+XXXXX
+AXXXX
+BBBAA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b7c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee10a0> [label="XXXXX
+XXXXX
+AXXXX
+BXBAX
+BABBA
+ 
+ visit: 11 
+ totalReward:3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed61f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee10a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1af0> [label="XXXXX
+AXXXX
+AXXXX
+BXBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee10a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1af0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1df0> [label="XXXXX
+XXXXX
+AXAXX
+BXBAX
+BABBA
+ 
+ visit: 6 
+ totalReward:6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee10a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1df0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea4c0> [label="XXXXX
+XXXXX
+AXXAX
+BXBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee10a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea4c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea520> [label="XXXXX
+XXXXX
+AXXXX
+BABAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee10a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea520>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea340> [label="XXXXX
+XXXXX
+AXXXX
+BXBAA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee10a0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea340>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1250> [label="XXXXX
+XXXXX
+AXXXX
+BXXAB
+BABBA
+ 
+ visit: 7 
+ totalReward:3.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed61f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1ee0> [label="XXXXX
+AXXXX
+AXXXX
+BXXAB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1ee0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85130> [label="BXXXX
+AXXXX
+AXXXX
+BXXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1ee0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85130>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffd00> [label="XXXXX
+XXXXX
+AXXAX
+BXXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffd00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffdc0> [label="XXXXX
+XXXXX
+AXXXA
+BXXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffdc0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffd30> [label="XXXXX
+XXXXX
+AXXXX
+BAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeffd30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85040> [label="XXXXX
+XXXXX
+AXXXX
+BXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6610> [label="XXXXX
+XXXXX
+XXXAX
+BXXAX
+BABBA
+ 
+ visit: 12 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb460> [label="XXXXX
+XXXBX
+XXXAX
+BXXAX
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb460>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef91c0> [label="XXXAX
+XXXBX
+XXXAX
+BXXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb460> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef91c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13d0> [label="XXXXX
+XXXXX
+BXXAX
+BXXAX
+BABBA
+ 
+ visit: 6 
+ totalReward:-6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee13d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2c70> [label="XXXXX
+XXXXX
+XXXAX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2c70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2f70> [label="XXXXX
+XXXXX
+XXXAX
+BXBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2f70>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9100> [label="XXXXX
+XXXXX
+XXXAX
+BXXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6d60> [label="XXXXX
+XXXXX
+XXXXX
+BAXAX
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6d60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea1f0> [label="XXXXX
+XXXXX
+BXXXX
+BAXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6d60> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea1f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb520> [label="XXXXX
+XXXXX
+XXXXX
+BXAAX
+BABBA
+ 
+ visit: 12 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb520>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb820> [label="XXXXX
+XXXXX
+BXXXX
+BXAAX
+BABBA
+ 
+ visit: 5 
+ totalReward:-5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb820>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1370> [label="XXXXX
+XXXXX
+XXBXX
+BXAAX
+BABBA
+ 
+ visit: 3 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1370>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2160> [label="XXXXX
+XXAXX
+XXBXX
+BXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef2160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85700> [label="XXXXX
+XXXXX
+AXBXX
+BXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1370> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85700>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeeae50> [label="XXXXX
+XXXXX
+XXXBX
+BXAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeeae50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeeaf40> [label="XXXXX
+XXXXX
+XXXXX
+BBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeeaf40>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef20a0> [label="XXXXX
+XXXXX
+XXXXX
+BXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb520> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef20a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb610> [label="XXXXX
+XXXXX
+XXXXX
+BXXAA
+BABBA
+ 
+ visit: 12 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2430> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb7c0> [label="XXXXX
+XXXXX
+BXXXX
+BXXAA
+BABBA
+ 
+ visit: 5 
+ totalReward:-5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb7c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1610> [label="XXXXX
+XXXXX
+XXXBX
+BXXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee1610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee17f0> [label="XXXXX
+XXXXX
+XXXXB
+BXXAA
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee17f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9610> [label="XXXXX
+XXXXA
+XXXXB
+BXXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee17f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9610>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea3d0> [label="XXXXX
+XXXXX
+XXXXX
+BBXAA
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea3d0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9af0> [label="XXXXX
+XXXXX
+AXXXX
+BBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea3d0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9af0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef94f0> [label="XXXXX
+XXXXX
+XXXXX
+BXBAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb610> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef94f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2550> [label="XXXXX
+XXXXX
+XXXXX
+XBXAX
+BABBA
+ 
+ visit: 15 
+ totalReward:7.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eaaf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a00> [label="XXXXX
+XXXXX
+XAXXX
+XBXAX
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6070> [label="XXXXX
+XBXXX
+XAXXX
+XBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a00> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6070>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2b50> [label="XXXXX
+XXXXX
+XXXAX
+XBXAX
+BABBA
+ 
+ visit: 5 
+ totalReward:5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2b50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113a90> [label="XXXXX
+XXXBX
+XXXAX
+XBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd8113a90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed62b0> [label="XXXXX
+XXXXX
+XBXAX
+XBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed62b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6520> [label="XXXXX
+XXXXX
+XXXAX
+BBXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6520>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9670> [label="XXXXX
+XXXXX
+XXXAX
+XBBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2b50> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9670>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2bb0> [label="XXXXX
+XXXXX
+XXXXX
+ABXAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2bb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2af0> [label="XXXXX
+XXXXX
+XXXXX
+XBAAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2af0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113880> [label="XXXXX
+XXXXX
+XXXXX
+XBXAA
+BABBA
+ 
+ visit: 5 
+ totalReward:5.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd8113880>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6220> [label="XXXXX
+XXXXX
+XBXXX
+XBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113880> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6430> [label="XXXXX
+XXXXX
+XXXBX
+XBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113880> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6430>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6cd0> [label="XXXXX
+XXXXX
+XXXXB
+XBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113880> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6cd0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6d90> [label="XXXXX
+XXXXX
+XXXXX
+BBXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113880> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6d90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2940> [label="XXXXX
+XXXXX
+XXXXX
+XXBAX
+BABBA
+ 
+ visit: 15 
+ totalReward:7.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eaaf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2940>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6160> [label="XXXXX
+XXXXX
+XXAXX
+XXBAX
+BABBA
+ 
+ visit: 6 
+ totalReward:6.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6af0> [label="XXXXX
+XXXXX
+XXXAX
+XXBAX
+BABBA
+ 
+ visit: 3 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6af0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85580> [label="XXXXX
+XXXBX
+XXXAX
+XXBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6af0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85580>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85760> [label="XXXXX
+XXXXX
+XXBAX
+XXBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed6af0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85760>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7310> [label="XXXXX
+XXXXX
+XXXXX
+AXBAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7310>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee71f0> [label="XXXXX
+XXXXX
+XXXXX
+XABAX
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee71f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe854c0> [label="XXXXX
+XXXXX
+XBXXX
+XABAX
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee71f0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe854c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7550> [label="XXXXX
+XXXXX
+XXXXX
+XXBAA
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7550>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe856a0> [label="XXXXX
+XXXXX
+XXBXX
+XXBAA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7550> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe856a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a30> [label="XXXXX
+XXXXX
+XXXXX
+XXXAB
+BABBA
+ 
+ visit: 18 
+ totalReward:8.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eaaf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a30>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113d00> [label="XXXXX
+XXXXX
+XXXAX
+XXXAB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd8113d00>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7a60> [label="XXXXX
+XXXBX
+XXXAX
+XXXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113d00> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7a60>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed68b0> [label="XXXXX
+XXXXX
+XXXXA
+XXXAB
+BABBA
+ 
+ visit: 2 
+ totalReward:0.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbed68b0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7b20> [label="XXXXX
+XXXXB
+XXXXA
+XXXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbed68b0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7b20>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7580> [label="XXXXX
+XXXXX
+XXXXX
+AXXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7580>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7910> [label="XXXXX
+XXXXX
+XXXXX
+XAXAB
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7910>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7940> [label="XXXXX
+XXXXX
+XXXXX
+XXAAB
+BABBA
+ 
+ visit: 11 
+ totalReward:9.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2a30> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7940>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7b50> [label="XXXXX
+XXXXX
+XXBXX
+XXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7b50>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7a90> [label="XXXXX
+XXXXX
+XXXBX
+XXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7a90>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7f40> [label="XXXXX
+XXXXX
+XXXXB
+XXAAB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7f40>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9460> [label="XXXXX
+XXXXA
+XXXXB
+XXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7f40> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef9460>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea070> [label="XXXXX
+XXXXX
+XXXXX
+BXAAB
+BABBA
+ 
+ visit: 4 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea070>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea220> [label="XXXXX
+XXXXX
+AXXXX
+BXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea220>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea370> [label="XXXXX
+XXXXX
+XXAXX
+BXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea370>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea400> [label="XXXXX
+XXXXX
+XXXAX
+BXAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea400>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea100> [label="XXXXX
+XXXXX
+XXXXX
+XBAAB
+BABBA
+ 
+ visit: 2 
+ totalReward:2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7940> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea100>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85070> [label="XXXXX
+XXXXX
+XAXXX
+XBAAB
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea100> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85070>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eadf0> [label="XXXXX
+XXXXX
+XXXXX
+XXXXA
+BABBA
+ 
+ visit: 26 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbf3dfa0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eadf0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2130> [label="XXXXX
+XXXXX
+XXXXB
+XXXXA
+BABBA
+ 
+ visit: 13 
+ totalReward:-7.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eadf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2130>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb7f0> [label="XXXXX
+XXXXA
+XXXXB
+XXXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2130> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb7f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbc10> [label="XXXXX
+XXXXX
+XXXXB
+AXXXA
+BABBA
+ 
+ visit: 2 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2130> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbc10>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b910> [label="XXXXX
+XXXXB
+XXXXB
+AXXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedbc10> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe8b910>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee14c0> [label="XXXXX
+XXXXX
+XXXXB
+XAXXA
+BABBA
+ 
+ visit: 4 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2130> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee14c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff3a0> [label="XXXXX
+XXXXB
+XXXXB
+XAXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee14c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff3a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff490> [label="XXXXX
+XXXXX
+XBXXB
+XAXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee14c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeff490>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85850> [label="XXXXX
+XXXXX
+XXXXB
+BAXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee14c0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbe85850>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7070> [label="XXXXX
+XXXXX
+XXXXB
+XXAXA
+BABBA
+ 
+ visit: 4 
+ totalReward:-2.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2130> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7070>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7bb0> [label="XXXXX
+XXXXB
+XXXXB
+XXAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7bb0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea8e0> [label="XXXXX
+XXXXX
+XXBXB
+XXAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbeea8e0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbef90a0> [label="XXXXX
+XXXXX
+XXXXB
+BXAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee7070> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbef90a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbee77c0> [label="XXXXX
+XXXXX
+XXXXB
+XXXAA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2130> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbee77c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2250> [label="XXXXX
+XXXXX
+XXXXX
+BXXXA
+BABBA
+ 
+ visit: 5 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eadf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2250>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113490> [label="XXXXX
+XXXXX
+AXXXX
+BXXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd8113490>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113b80> [label="XXXXX
+XXXXX
+XXXXA
+BXXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd8113b80>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd8113fa0> [label="XXXXX
+XXXXX
+XXXXX
+BAXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd8113fa0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb850> [label="XXXXX
+XXXXX
+XXXXX
+BXAXA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2250> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbedb850>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec21c0> [label="XXXXX
+XXXXX
+XXXXX
+XBXXA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eadf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec21c0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec20a0> [label="XXXXX
+XXXXX
+XXXXX
+XXBXA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eadf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec20a0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2790> [label="XXXXX
+XXXXX
+XXXXX
+XXXBA
+BABBA
+ 
+ visit: 5 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cdb4eadf0> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2790>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec21f0> [label="XXXXX
+XXXXX
+XXXAX
+XXXBA
+BABBA
+ 
+ visit: 1 
+ totalReward:-1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2790> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cbbec21f0>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd80c0040> [label="XXXXX
+XXXXX
+XXXXA
+XXXBA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2790> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd80c0040>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd80c0160> [label="XXXXX
+XXXXX
+XXXXX
+AXXBA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2790> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd80c0160>
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cd80c0070> [label="XXXXX
+XXXXX
+XXXXX
+XAXBA
+BABBA
+ 
+ visit: 1 
+ totalReward:1.0 
+"]
+	<gravity_gomoku.GravityGomokuState object at 0x7f3cbbec2790> -- <gravity_gomoku.GravityGomokuState object at 0x7f3cd80c0070>
+}
