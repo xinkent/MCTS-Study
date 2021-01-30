@@ -57,8 +57,9 @@ class mcts():
         self.explorationConstant = explorationConstant
         self.rollout = rolloutPolicy
 
-    def search(self, initialState, needDetails=False):
-        self.root = treeNode(initialState, None)
+    def search(self, initialState, needDetails=False, continuous=False):
+        if not continuous:
+            self.root = treeNode(initialState, None)
 
         if self.limitType == 'time':
             timeLimit = time.time() + self.timeLimit / 1000
@@ -116,7 +117,7 @@ class mcts():
         bestNodes = []
         for child in node.children.values():
             nodeValue = node.state.getCurrentPlayer() * child.totalReward / child.numVisits + explorationValue * math.sqrt(
-                2 * math.log(node.numVisits) / child.numVisits)
+                 2 * math.log(node.numVisits) / child.numVisits)
             if nodeValue > bestValue:
                 bestValue = nodeValue
                 bestNodes = [child]

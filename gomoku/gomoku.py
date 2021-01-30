@@ -87,9 +87,9 @@ class GomokuState():
         for row in self.board:
             for r in row:
                 if r == 0:
-                    board_str += 'X' 
+                    board_str += '\033[38;2;255;255;255m○\033[0m'
                 else:
-                    color = 'A' if r == 1 else 'B'                    
+                    color = '●' if r == 1 else '○'                    
                     board_str += color
             board_str += '\n'  
         return board_str

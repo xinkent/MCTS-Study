@@ -82,17 +82,29 @@ class GravityGomokuState():
         # 盤面が全て埋まっていたら終了
         return False
 
+    # def draw_board(self):
+    #     board_str = ""
+    #     for row in self.board:
+    #         for r in row:
+    #             if r == 0:
+    #                 board_str += 'X' 
+    #             else:
+    #                 color = 'A' if r == 1 else 'B'                    
+    #                 board_str += color
+    #         board_str += '\n'  
+    #     return board_str
+
     def draw_board(self):
-        board_str = ""
-        for row in self.board:
-            for r in row:
-                if r == 0:
-                    board_str += 'X' 
-                else:
-                    color = 'A' if r == 1 else 'B'                    
-                    board_str += color
-            board_str += '\n'  
-        return board_str
+            board_str = ""
+            for row in self.board:
+                for r in row:
+                    if r == 0:
+                        board_str += '\033[38;2;255;255;255m○\033[0m'
+                    else:
+                        color = '●' if r == 1 else '○'                    
+                        board_str += color
+                board_str += '\n'  
+            return board_str
 
 class Action():
     def __init__(self, player, x, y):
